@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Yongseok Oh
 
-You can use the [editor on GitHub](https://github.com/Yongseok1113/yongseok1113/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### AI Research Engineer
+[GitHub](https://github.com/Yongseok1113) |
 
-### Markdown
+## EXPERIENCE
+### D-Meta Co, Ltd | 2020.11.23 ~ present (2022.4.15 plan to resign)
+### AI Research Engineer
+ - FNPR (Fake Number Plate Recognition):
+   - Car Segmentation (Mask RCNN) - use previous achivement
+   - Automatic Number Plate Recognition (YOLOv5) - use previous achivement
+   - Car Model Classification (TResNet-L)
+ 
+   - Make car model classification dataset for train/inference: web crawling, open dataset(stanford cars dataset)
+   - implementation of TResNet-L for Car Model Classification
+   - Integrating several projects for FNPR system 
+   - Development of REST API for deploying demonstration (flask, fastAPI)
+ 
+ - Car Segmentation:
+   - Implementation of Yolact++ for Car Segmentation
+ 
+ - Regression:
+   - 
+   - STD (Scene Text Detection): [detectron2](https://github.com/facebookresearch/detectron2), [EAST](https://github.com/yakhyo/EAST-pt), [CRAFT](https://github.com/yakhyo/ClovaAI-CRAFT), [TextFuseNet](https://github.com/ying09/TextFuseNet)
+   - STR (Scene Text Recognition): STN, BiLSTM, Attention, CTC based methods
+ - Shadow Removal
+   - GANs, CycleGAN, MaskShadowGAN and etc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yongseok1113/yongseok1113/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
