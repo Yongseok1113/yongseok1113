@@ -5,7 +5,7 @@
 [GitHub](https://github.com/Yongseok1113) |
 
 ## EXPERIENCE
-### D-Meta Co, Ltd | 2020.11.23 ~ present (2022.4.15 plan to resign)
+### D-Meta Co, Ltd | 2020.11.23 ~ present 
 ### AI Research Engineer
  - FNPR (Fake Number Plate Recognition):
    - Car Segmentation (Mask RCNN) - use previous achivement
@@ -20,10 +20,5 @@
  - Car Segmentation:
    - Implementation of Yolact++ for Car Segmentation
  
- - Regression:
-   - 
-   - STD (Scene Text Detection): [detectron2](https://github.com/facebookresearch/detectron2), [EAST](https://github.com/yakhyo/EAST-pt), [CRAFT](https://github.com/yakhyo/ClovaAI-CRAFT), [TextFuseNet](https://github.com/ying09/TextFuseNet)
-   - STR (Scene Text Recognition): STN, BiLSTM, Attention, CTC based methods
- - Shadow Removal
-   - GANs, CycleGAN, MaskShadowGAN and etc.
+
 
